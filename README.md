@@ -3,11 +3,11 @@ Check a demo [HERE](https://codepen.io/roberts_lando/pen/JrGQLa) (Codepen).
 
 Thanks to [this](http://github.com) Dribbble.
 
-##Preview:
+## Preview:
 
 ![Animated Emojy](https://cdn.dribbble.com/users/43762/screenshots/1925708/emojis.gif)
 
-##Usage:
+## Usage:
 
 1. Add the aniemojy.css or aniemojy.min.css file the `<head>` section:
 
