@@ -1,7 +1,7 @@
 # Animated Emojy CSS
 Thanks to [this](http://github.com) Dribbble.
 
-Check a demo [HERE](https://codepen.io/roberts_lando/pen/JrGQLa) (Codepen).
+Edit Codpen [Demo](https://codepen.io/roberts_lando/pen/JrGQLa) or check the [Preview](http://htmlpreview.github.io/?https://github.com/robertsLando/animated-emojy/blob/master/index.html).
 
 ## Preview
 
