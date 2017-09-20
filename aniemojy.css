@@ -1,7 +1,7 @@
 .emojy-container{
   display: inline-block;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     border: none;
     cursor: pointer;
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@
 }
 
 .emojy-celebrate{
-    background-position: 35% 30%;
+    background-position: 35% 28.5%;
 }
 
 .emojy-joke{
